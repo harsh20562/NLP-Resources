@@ -1,4 +1,5 @@
-#NLP Resources
+NLP Resources
+  
 1)Speech and Language Processing by Dan Jurafsky and James Martin
 https://web.stanford.edu/~jurafsky/slp3/
 
