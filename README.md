@@ -15,7 +15,7 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 5. The video lectures and resources for Stanford’s Natural Language Processing with Deep Learning
 http://web.stanford.edu/class/cs224n/
 
-    https://m.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+        https://m.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 
 6. Sequence Models for Time Series and Natural Language Processing 
