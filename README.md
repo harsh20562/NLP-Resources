@@ -1,9 +1,9 @@
 NLP Resources
   
-1)Speech and Language Processing by Dan Jurafsky and James Martin
+1. Speech and Language Processing by Dan Jurafsky and James Martin
 https://web.stanford.edu/~jurafsky/slp3/
 
-2) Deep Learning for Natural Language Processing by Richard Socher (Stanford University)
+2. Deep Learning for Natural Language Processing by Richard Socher (Stanford University)
 https://m.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 3. Natural Language Processing (NLP) by Microsoft
@@ -27,10 +27,10 @@ http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/
 8. Natural Language Processing Fundamentals in Python by Datacamp
 https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python
 
-9 Natural Language Processing by Higher School of Economics
+9. Natural Language Processing by Higher School of Economics
 https://www.coursera.org/learn/language-processing?
 
-10 How to Build a Chatbot Without Coding by IBM
+10. How to Build a Chatbot Without Coding by IBM
 https://www.coursera.org/learn/building-ai-powered-chatbots
 
 11. CS 388: Natural Language Processing by University of Texas
